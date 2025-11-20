@@ -1,2 +1,2 @@
 # ai-feeling:
-Analisys of the ai feelings.
+Analisys of the ai feelings with  Python.
