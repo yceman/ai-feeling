@@ -17,3 +17,6 @@ All scores:
 ```
 
 ![example](static/screenshot.png)
+
+Windows:
+https://learn.microsoft.com/en-us/windows/advanced-settings/developer-mode
