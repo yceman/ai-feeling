@@ -1,4 +1,4 @@
-# ai-feeling:
+# 😀 ai-feeling:
 Analisys of the ai feelings with  Python.
 
 Example Run:
