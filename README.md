@@ -1,7 +1,7 @@
 # 😀 ai-feeling:
 Analisys of the ai feelings with  Python.
 
-Example Run:
+Example Run:🤖  
 
 ```
 $ python emotion_ai.py "I am so happy today!"
