@@ -1,5 +1,6 @@
 # 😀 ai-feeling: feeling system. 🫪. 
-Analisys of the ai feelings with  Python.
+Analisys of the ai feelings with  Python.  
+A simple example  
 
 Example Run:🤖  
 
